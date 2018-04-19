@@ -1,0 +1,47 @@
+body {
+	padding: 0px;
+	margin: 0px;
+	font-family: "Trebuchet MS", Futura, arial, sans-serif;
+	text-align: center;
+}
+
+#wrapper {
+
+	height: 100vh;
+	width: 100vw;
+	position: fixed;
+	top: 8px;
+	left: 8px;
+}
+
+#bg {
+
+	height: 100vh;
+	width: 100vw;
+	background-color: #aee
+	-webkit-background-size: 700px;
+	background-size: 700px;
+	opacity: .4;
+	background-position: 50% 50%;
+
+}
+
+#zipInput {
+
+	margin: 10px 0px;
+}
+
+hr {
+
+margin: 20px 0px;
+
+}
+
+#weatherInfo {
+
+	-webkit-animation-duration: 1s;
+	-moz-animation-duration: 1s;
+	-ms-animation-duration: 1s;
+	-o-animation-duration: 1s;
+	-animation-duration: 1s;
+}
